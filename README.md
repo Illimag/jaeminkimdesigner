@@ -1,4 +1,4 @@
-### Local San Francisco Bay Area/Silicon Valley
+### San Francisco Bay Area/Silicon Valley Local
 
 <!--
 **jaeminkim-com/jaeminkim-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
