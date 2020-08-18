@@ -1,4 +1,7 @@
-### Happy Days~°
+### Bay Area local.
+- 🎨 UI/UX Design
+- 🔧 React.JS
+- 💻📱 Web
 
 <!--
 **jaeminkim-com/jaeminkim-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
