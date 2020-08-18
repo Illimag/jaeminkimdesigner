@@ -1,5 +1,5 @@
 ### Bay Area local.
-- 🎨 UI/UX Design
+- 🎨 UI/UX
 - 🔧 React.JS
 - 💻📱 Web
 
