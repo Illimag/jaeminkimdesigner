@@ -1,6 +1,4 @@
 ### Bay Area local.
-- 🎨 UI/UX
-- 🔧 React.JS
 - 💻📱 Web
 
 <!--
