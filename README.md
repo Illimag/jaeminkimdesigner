@@ -1,7 +1,7 @@
 ### SF Bay Area & Silicon Valley Local
-:page_facing_up: [Portfolio](https://www.jaeminkim.com) </br>
-:white_check_mark: [Linkedin](https://www.linkedin.com/in/jaeminkim-com/) </br>
-:white_check_mark: [Behance](https://www.behance.net/jaeminkim2)
+:page_facing_up: [Portfolio](www.jaeminkim.com) </br>
+:white_check_mark: [Linkedin](www.linkedin.com/in/jaeminkim-com/) </br>
+:white_check_mark: [Behance](www.behance.net/jaeminkim2)
 
 <!--
 **jaeminkim-com/jaeminkim-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
