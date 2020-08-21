@@ -1,4 +1,4 @@
-### SF Bay Area & Silicon Valley since '96
+### SF Bay Area & Silicon Valley Local
 :bridge_at_night: User Interface
 
 ## Portfolio
