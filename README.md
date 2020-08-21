@@ -8,17 +8,18 @@
 :handshake: [Behance](https://www.behance.net/jaeminkim2)
 
 ## Repos
-:pencil: [Portfolio](https://github.com/jaeminkim-com/apex-vr)</br>
-:pencil: [Portfolio](https://github.com/jaeminkim-com/react-portfolio-site)</br>
-:pencil: [Portfolio](https://github.com/jaeminkim-com/shoepalace)</br>
-:pencil: [Portfolio](https://github.com/jaeminkim-com/dasdasdigital_web_app)</br>
-:pencil: [Portfolio](https://github.com/jaeminkim-com/dominos-app-visually-impaired)</br>
-:pencil: [Portfolio](https://github.com/jaeminkim-com/react-web-application-prototyping-with-bootstrap-studio)</br>
-:pencil: [Portfolio](https://github.com/jaeminkim-com/lead-generator-automailer)</br>
-:pencil: [Portfolio](https://github.com/jaeminkim-com/doc-list)</br>
-:pencil: [Portfolio](https://github.com/jaeminkim-com/11-11)</br>
-:pencil: [Portfolio](https://github.com/jaeminkim-com/User-Interface-Design-Process)</br>
-:pencil: [Portfolio](https://github.com/jaeminkim-com/300)
+:pencil: [ApexVR](https://github.com/jaeminkim-com/apex-vr)</br>
+:gear: AngularJS, Aframe, HTML/CSS/JS
+
+:pencil: [ReactPortfolioSite](https://github.com/jaeminkim-com/react-portfolio-site)</br>
+:pencil: [ShoePalace](https://github.com/jaeminkim-com/shoepalace)</br>
+:pencil: [DasDasDigitalWebApp](https://github.com/jaeminkim-com/dasdasdigital_web_app)</br>
+:pencil: [DominosAppVisuallyImpaired](https://github.com/jaeminkim-com/dominos-app-visually-impaired)</br>
+:pencil: [ReactWebApplicationPrototypingWithBootstrapStudio](https://github.com/jaeminkim-com/react-web-application-prototyping-with-bootstrap-studio)</br>
+:pencil: [LeadGeneratorAutomailer](https://github.com/jaeminkim-com/lead-generator-automailer)</br>
+:pencil: [DocList](https://github.com/jaeminkim-com/doc-list)</br>
+:pencil: [1111](https://github.com/jaeminkim-com/11-11)</br>
+:pencil: [300](https://github.com/jaeminkim-com/300)
 
 
 <!--
