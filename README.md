@@ -33,10 +33,10 @@
 :file_folder: [1111](https://github.com/jaeminkim-com/11-11)</br>
 :gear: Jekyll, HTML/CSS/JS
 
-:file_folder: [300](https://github.com/jaeminkim-com/300)
+:file_folder: [300](https://github.com/jaeminkim-com/300)</br>
 :gear: Angular.JS, P5.JS, HTML/CSS/JS
 
-:file_folder: [DocList](https://github.com/jaeminkim-com/doc-list)</br>
+:file_folder: [DocList](https://github.com/jaeminkim-com/doc-list)
 
 <!--
 **jaeminkim-com/jaeminkim-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
