@@ -1,44 +1,42 @@
 ### SF Bay Area & Silicon Valley
-:gear: User Interface
+:bridge_at_night: User Interface
 
 ## Portfolio
-:pencil: [Portfolio](https://www.jaeminkim.com)
+:page_facing_up: [Portfolio](https://www.jaeminkim.com)
 
 ## Social
-:pencil: [Linkedin](https://www.linkedin.com/in/jaeminkim-com/) </br>
-:handshake: [Behance](https://www.behance.net/jaeminkim2)
+:white_check_mark: [Linkedin](https://www.linkedin.com/in/jaeminkim-com/) </br>
+:white_check_mark: [Behance](https://www.behance.net/jaeminkim2)
 
 ## Repos
-:pencil: [ApexVR](https://github.com/jaeminkim-com/apex-vr)</br>
-:gear: AngularJS, Aframe, HTML/CSS/JS
+:file_folder: [ApexVR](https://github.com/jaeminkim-com/apex-vr)</br>
+:gear: Angular.JS, Aframe, HTML/CSS/JS
 
-:pencil: [ReactPortfolioSite](https://github.com/jaeminkim-com/react-portfolio-site)</br>
-:gear: AngularJS, Aframe, HTML/CSS/JS
+:file_folder: [ReactPortfolioSite](https://github.com/jaeminkim-com/react-portfolio-site)</br>
+:gear: React.JS, Bootstrap, HTML/CSS/JS
 
-:pencil: [ShoePalace](https://github.com/jaeminkim-com/shoepalace)</br>
-:gear: AngularJS, Aframe, HTML/CSS/JS
+:file_folder: [ShoePalace](https://github.com/jaeminkim-com/shoepalace)</br>
+:gear: React.JS, Bootstrap, HTML/CSS/JS
 
-:pencil: [DasDasDigitalWebApp](https://github.com/jaeminkim-com/dasdasdigital_web_app)</br>
-:gear: AngularJS, Aframe, HTML/CSS/JS
+:file_folder: [DasDasDigitalWebApp](https://github.com/jaeminkim-com/dasdasdigital_web_app)</br>
+:gear: React.JS, Bootstrap, HTML/CSS/JS
 
-:pencil: [DominosAppVisuallyImpaired](https://github.com/jaeminkim-com/dominos-app-visually-impaired)</br>
-:gear: AngularJS, Aframe, HTML/CSS/JS
+:file_folder: [DominosAppVisuallyImpaired](https://github.com/jaeminkim-com/dominos-app-visually-impaired)</br>
+:gear: Angular.JS, HTML/CSS/JS
 
-:pencil: [ReactWebApplicationPrototypingWithBootstrapStudio](https://github.com/jaeminkim-com/react-web-application-prototyping-with-bootstrap-studio)</br>
-:gear: AngularJS, Aframe, HTML/CSS/JS
+:file_folder: [ReactWebApplicationPrototypingWithBootstrapStudio](https://github.com/jaeminkim-com/react-web-application-prototyping-with-bootstrap-studio)</br>
+:gear: React.JS, Bootstrap Studio, HTML/CSS/JS
 
-:pencil: [LeadGeneratorAutomailer](https://github.com/jaeminkim-com/lead-generator-automailer)</br>
-:gear: AngularJS, Aframe, HTML/CSS/JS
+:file_folder: [LeadGeneratorAutomailer](https://github.com/jaeminkim-com/lead-generator-automailer)</br>
+:gear: Python, Beautiful Soup
 
-:pencil: [DocList](https://github.com/jaeminkim-com/doc-list)</br>
-:gear: AngularJS, Aframe, HTML/CSS/JS
+:file_folder: [1111](https://github.com/jaeminkim-com/11-11)</br>
+:gear: Jekyll, HTML/CSS/JS
 
-:pencil: [1111](https://github.com/jaeminkim-com/11-11)</br>
-:gear: AngularJS, Aframe, HTML/CSS/JS
+:file_folder: [300](https://github.com/jaeminkim-com/300)
+:gear: Angular.JS, P5.JS, HTML/CSS/JS
 
-:pencil: [300](https://github.com/jaeminkim-com/300)
-:gear: AngularJS, Aframe, HTML/CSS/JS
-
+:file_folder: [DocList](https://github.com/jaeminkim-com/doc-list)</br>
 
 <!--
 **jaeminkim-com/jaeminkim-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
