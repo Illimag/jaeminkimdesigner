@@ -1,10 +1,6 @@
 ### SF Bay Area & Silicon Valley Local
 :bridge_at_night: User Interface
-
-## Portfolio
-:page_facing_up: [Portfolio](https://www.jaeminkim.com)
-
-## Social
+:page_facing_up: [Portfolio](https://www.jaeminkim.com) </br>
 :white_check_mark: [Linkedin](https://www.linkedin.com/in/jaeminkim-com/) </br>
 :white_check_mark: [Behance](https://www.behance.net/jaeminkim2)
 
