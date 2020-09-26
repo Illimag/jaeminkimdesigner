@@ -1,4 +1,6 @@
 ### SF Bay Area & Silicon Valley Local
+### UI/UX Designer
+### Web, React.JS
 :page_facing_up: [Portfolio](http://www.jaeminkim.com)
 
 <!--
