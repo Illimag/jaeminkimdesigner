@@ -1,6 +1,4 @@
-### SF Bay Area & Silicon Valley Local
-### UI/UX Designer
-### Web, React.JS
+### SF Bay Area & Silicon Valley
 :page_facing_up: [Portfolio](http://www.jaeminkim.com) <br></br>
 :page_facing_up: [UX Design Journal](https://www.notion.so/How-to-become-an-UX-Designer-Design-Journal-822b58c3456d44cb98cdd0e3cc4a0c8a)
 
