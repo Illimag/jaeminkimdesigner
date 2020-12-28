@@ -1,6 +1,6 @@
 ### SF Bay Area & Silicon Valley
 :page_facing_up: [Portfolio Website](http://www.jaeminkim.com) <br></br>
-:page_facing_up: [UI/UX Designer Roadmap](https://www.notion.so/UI-UX-Designer-Roadmap-822b58c3456d44cb98cdd0e3cc4a0c8a)
+:page_facing_up: [UI/UX Designer Handbook](https://www.notion.so/UI-UX-Designer-Handbook-822b58c3456d44cb98cdd0e3cc4a0c8a)
 
 <!--
 **jaeminkim-com/jaeminkim-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
