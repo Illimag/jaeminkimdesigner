@@ -1,4 +1,3 @@
-# Hi
 ## Welcome
 
 ### SF Bay Area & Silicon Valley UI/UX Designer
