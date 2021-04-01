@@ -1,7 +1,5 @@
-## Welcome
-
 ### UI/UX Designer
-## SF Bay Area & Silicon Valley
+### SF Bay Area & Silicon Valley
 :page_facing_up: [Portfolio Website](http://www.jaeminkim.com) <br></br>
 
 <!--
