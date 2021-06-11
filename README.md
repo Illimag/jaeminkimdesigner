@@ -1,4 +1,3 @@
-### Hi yall
 ### SF Bay Area & Silicon Valley
 :page_facing_up: [Portfolio Website](http://www.jaeminkim.com) <br></br>
 :page_facing_up: [Linkedin](https://www.linkedin.com/in/jaeminkim-com) <br></br>
