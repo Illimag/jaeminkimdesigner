@@ -1,4 +1,4 @@
-### SF Bay Area & Silicon Valley
+### Local Designer SF Bay Area & Silicon Valley
 :page_facing_up: [Portfolio Website](http://www.jaeminkim.com) <br></br>
 :page_facing_up: [Linkedin](https://www.linkedin.com/in/jaeminkim-com) <br></br>
 :page_facing_up: [Stackoverflow](https://stackoverflow.com/story/jaemnkm) <br></br>
