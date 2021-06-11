@@ -1,6 +1,7 @@
 ### SF Bay Area & Silicon Valley
 :page_facing_up: [Portfolio Website](http://www.jaeminkim.com) <br></br>
 :page_facing_up: [Linkedin](https://www.linkedin.com/in/jaeminkim-com) <br></br>
+:page_facing_up: [Stackoverflow](https://stackoverflow.com/users/story/7898397?view=Timeline) <br></br>
 
 <!--
 **jaeminkim-com/jaeminkim-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
