@@ -1,7 +1,5 @@
 ### Local Designer SF Bay Area & Silicon Valley
 :page_facing_up: [Portfolio Website](http://www.jaeminkim.com) <br></br>
-:page_facing_up: [Linkedin](https://www.linkedin.com/in/jaeminkim-com) <br></br>
-:page_facing_up: [Stackoverflow](https://stackoverflow.com/story/jaemnkm) <br></br>
 
 ### User Interface and User Experience Design Handbook
 :book: [Handbook](https://github.com/jaeminkim-com/user_interface_and_user_experience_design_handbook) <br></br>
