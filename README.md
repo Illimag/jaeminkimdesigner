@@ -1,5 +1,5 @@
 ### Local Designer SF Bay Area & Silicon Valley
-
+User Interface (UI) and User Experience (UX) Design, Interaction Design, Product Design
 
 ### UX Designer Portfolio
 :page_facing_up: [Portfolio Website](http://www.jaeminkim.com) <br></br>
