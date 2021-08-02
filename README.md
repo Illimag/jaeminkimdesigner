@@ -1,4 +1,4 @@
-### Local Designer SF Bay Area & Silicon Valley
+### Local UI/UX Designer SF Bay Area & Silicon Valley
 User Interface (UI) and User Experience (UX) Design, Interaction Design, Product Design, Web & Mobile Design, Graphic Design
 
 ### UX Designer Portfolio
