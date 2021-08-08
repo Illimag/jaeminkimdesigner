@@ -21,11 +21,9 @@
 <div align="center">
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=user_interface_and_user_experience_design_handbook&theme=gotham)](https://github.com/jaeminkim-com/user_interface_and_user_experience_design_handbook)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=
-cl_scrapper&theme=gotham)](https://github.com/jaeminkim-com/cl_scrapper)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=cl_scrapper&theme=gotham)](https://github.com/jaeminkim-com/cl_scrapper)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=shoepalace&theme=gotham)](https://github.com/jaeminkim-com/shoepalace)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=
-gpu_bot&theme=gotham)](https://github.com/jaeminkim-com/gpu_bot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=gpu_bot&theme=gotham)](https://github.com/jaeminkim-com/gpu_bot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=apex-vr&theme=gotham)](https://github.com/jaeminkim-com/apex-vr)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=dasdasdigital_web_app&theme=gotham)](https://github.com/jaeminkim-com/dasdasdigital_web_app)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=dominos-app-visually-impaired&theme=gotham)](https://github.com/jaeminkim-com/dominos-app-visually-impaired)
@@ -37,18 +35,3 @@ gpu_bot&theme=gotham)](https://github.com/jaeminkim-com/gpu_bot)
 </div>
 
 </BR></BR>
-
-<!--
-**jaeminkim-com/jaeminkim-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
