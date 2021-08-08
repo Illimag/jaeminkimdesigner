@@ -17,18 +17,19 @@
 
 <h3>Available for Full-Time, Part-Time, Contract and Freelance.</h3>
 
-<!-- Web Applications Repos -->
+<!-- Web Applications (React.JS) Repos -->
 <h3>Web Applications (React.JS)</h3>
 <div align="center">
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=shoepalace)](https://github.com/jaeminkim-com/shoepalace)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=dasdasdigital_web_app)](https://github.com/jaeminkim-com/dasdasdigital_web_app)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=react-web-application-prototyping-with-bootstrap-studio)](https://github.com/jaeminkim-com/react-web-application-prototyping-with-bootstrap-studio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=react-portfolio-site)](https://github.com/jaeminkim-com/react-portfolio-sit)
 </div>
 
 </BR></BR>
 
-<!-- Web Applications Repos -->
+<!-- Web Applications (Angular.JS) Repos -->
 <h3>Web Applications (Angular.JS)</h3>
 <div align="center">
 
@@ -39,6 +40,16 @@
 
 </BR></BR>
 
+<!-- Web Applications (etc) Repos -->
+<h3>Web Applications (etc)</h3>
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=11-11)](https://github.com/jaeminkim-com/11-11)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=magicmoment.life)](https://github.com/jaeminkim-com/magicmoment.life)
+  
+</div>
+
+</BR></BR>
 
 <!-- Web Spiders Repos -->
 <h3>Web Spiders (Python)</h3>
