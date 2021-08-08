@@ -2,7 +2,6 @@
 
 <div>
 <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=jaeminkim-com&show_icons=true" />
-
 <img height="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeminkim-com&layout=compact" />
 </div>
 
@@ -12,7 +11,6 @@
 
 ### UX Designer Portfolio
 :page_facing_up: [Portfolio Website](http://www.jaeminkim.com)
-
 ### User Interface and User Experience Design Handbook
 :book: [Handbook](https://github.com/jaeminkim-com/user_interface_and_user_experience_design_handbook)
 
