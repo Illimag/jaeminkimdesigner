@@ -1,3 +1,7 @@
+<div align="center" width="50">
+<img src="https://github.com/jaeminkim-com/jaeminkim-com/blob/master/img/sf.gif" width="600"/>
+</div>
+
 <h3>John (Jae Min) Kim, is a local UI/UX Designer located in the San Francisco Bay Area and Silicon Valley.</h3>
 
 <h3>Availablefor Full-Time, Part-Time, Contract and Freelance.</h3>
