@@ -5,19 +5,6 @@
 <img height="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeminkim-com&layout=compact" />
 </div>
 
-</BR>
-
-<div align="center">
-
-<h3>UX Designer Portfolio</h3>
-:page_facing_up: [Portfolio Website](http://www.jaeminkim.com)
-<h3>User Interface and User Experience Design Handbook</h3>
-:book: [Handbook](https://github.com/jaeminkim-com/user_interface_and_user_experience_design_handbook)
-
-</div>
-
-</BR>
-
 <!-- Repos -->
 </BR>
 
