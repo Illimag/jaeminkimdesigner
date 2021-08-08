@@ -11,10 +11,10 @@
 <div>
 
 ### UX Designer Portfolio
-:page_facing_up: [Portfolio Website](http://www.jaeminkim.com) <br></br>
+:page_facing_up: [Portfolio Website](http://www.jaeminkim.com)
 
 ### User Interface and User Experience Design Handbook
-:book: [Handbook](https://github.com/jaeminkim-com/user_interface_and_user_experience_design_handbook) <br></br>
+:book: [Handbook](https://github.com/jaeminkim-com/user_interface_and_user_experience_design_handbook)
 
 </div>
 
