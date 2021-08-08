@@ -7,11 +7,11 @@
 
 </BR>
 
-<div>
+<div align="center">
 
-### UX Designer Portfolio
+<h3>UX Designer Portfolio</h3>
 :page_facing_up: [Portfolio Website](http://www.jaeminkim.com)
-### User Interface and User Experience Design Handbook
+<h3>User Interface and User Experience Design Handbook</h3>
 :book: [Handbook](https://github.com/jaeminkim-com/user_interface_and_user_experience_design_handbook)
 
 </div>
