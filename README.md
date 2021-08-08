@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=user_interface_and_user_experience_design_handbook&theme=gotham)](https://github.com/jaeminkim-com/user_interface_and_user_experience_design_handbook)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=user_interface_and_user_experience_design_handbook)](https://github.com/jaeminkim-com/user_interface_and_user_experience_design_handbook)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=cl_scrapper&theme=gotham)](https://github.com/jaeminkim-com/cl_scrapper)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=shoepalace&theme=gotham)](https://github.com/jaeminkim-com/shoepalace)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=gpu_bot&theme=gotham)](https://github.com/jaeminkim-com/gpu_bot)
