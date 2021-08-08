@@ -39,8 +39,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=cl_scrapper)](https://github.com/jaeminkim-com/cl_scrapper)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=gpu_bot)](https://github.com/jaeminkim-com/gpu_bot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=lead-generator-automailer)](https://github.com/jaeminkim-com/lead-generator-automailer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=11-11)](https://github.com/jaeminkim-com/11-11)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=300)](https://github.com/jaeminkim-com/300)
 </div>
 
 </BR></BR>
