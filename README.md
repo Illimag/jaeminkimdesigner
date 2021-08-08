@@ -17,21 +17,28 @@
 
 <h3>Available for Full-Time, Part-Time, Contract and Freelance.</h3>
 
-<!-- Repos -->
+<!-- Web Applications Repos -->
+<h3>Web Applications</h3>
 <div align="center">
-  
-  <h3>Repos</h3>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=user_interface_and_user_experience_design_handbook)](https://github.com/jaeminkim-com/user_interface_and_user_experience_design_handbook)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=cl_scrapper)](https://github.com/jaeminkim-com/cl_scrapper)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=shoepalace)](https://github.com/jaeminkim-com/shoepalace)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=gpu_bot)](https://github.com/jaeminkim-com/gpu_bot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=apex-vr)](https://github.com/jaeminkim-com/apex-vr)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=dasdasdigital_web_app)](https://github.com/jaeminkim-com/dasdasdigital_web_app)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=dominos-app-visually-impaired)](https://github.com/jaeminkim-com/dominos-app-visually-impaired)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=react-web-application-prototyping-with-bootstrap-studio)](https://github.com/jaeminkim-com/react-web-application-prototyping-with-bootstrap-studio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=11-11)](https://github.com/jaeminkim-com/11-11)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=300)](https://github.com/jaeminkim-com/300)
+</div>
+
+</BR></BR>
+
+<!-- Web Spiders Repos -->
+<h3>Web Spiders</h3>
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=cl_scrapper)](https://github.com/jaeminkim-com/cl_scrapper)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=gpu_bot)](https://github.com/jaeminkim-com/gpu_bot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=lead-generator-automailer)](https://github.com/jaeminkim-com/lead-generator-automailer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=doc-list)](https://github.com/jaeminkim-com/doc-list)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=11-11)](https://github.com/jaeminkim-com/11-11)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=300)](https://github.com/jaeminkim-com/300)
 </div>
