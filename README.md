@@ -6,8 +6,6 @@
 </div>
 
 <!-- Repos -->
-</BR>
-
 <div align="center">
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaeminkim-com&repo=user_interface_and_user_experience_design_handbook)](https://github.com/jaeminkim-com/user_interface_and_user_experience_design_handbook)
