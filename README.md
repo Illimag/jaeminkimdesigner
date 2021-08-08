@@ -1,6 +1,6 @@
-<h1>Hello! John (Jae Min) Kim, a local UI/UX Designer located in the San Francisco Bay Area and Silicon Valley.</h1>
+<h3>Hello! John (Jae Min) Kim, a local UI/UX Designer located in the San Francisco Bay Area and Silicon Valley.</h3>
 
-<h1>Available for Full-Time, Part-Time, Contract and Freelance. Have a nice day!</h1>
+<h3>Available for Full-Time, Part-Time, Contract and Freelance. Have a nice day!</h3>
 
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=jaeminkim-com&show_icons=true" />
