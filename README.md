@@ -7,10 +7,10 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeminkim-com&layout=compact" />
 </div>
 
-<h3>UX Designer Portfolio</h3>
+### UX Designer Portfolio
 :page_facing_up: [Portfolio Website](http://www.jaeminkim.com) <br></br>
 
-<h3>User Interface and User Experience Design Handbook</h3>
+### User Interface and User Experience Design Handbook
 :book: [Handbook](https://github.com/jaeminkim-com/user_interface_and_user_experience_design_handbook) <br></br>
 
 <!-- Repos -->
