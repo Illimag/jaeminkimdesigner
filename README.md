@@ -1,4 +1,4 @@
-<h1>Hello!</h1>
+<h1>Hello! This is John (Jae Min) Kim, a local UI/UX Designer located in the San Francisco Bay Area and Silicon Valley.</h1>
 
 ### Local UI/UX Designer SF Bay Area & Silicon Valley
 
