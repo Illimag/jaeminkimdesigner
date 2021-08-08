@@ -6,16 +6,16 @@
 
 <h3>Available for Full-Time, Part-Time, Contract and Freelance.</h3>
 
+### UX Designer Portfolio
+:page_facing_up: [Portfolio Website](http://www.jaeminkim.com)
+
+### User Interface and User Experience Design Handbook
+:book: [Handbook](https://github.com/jaeminkim-com/user_interface_and_user_experience_design_handbook)
+
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=jaeminkim-com&show_icons=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeminkim-com&layout=compact" />
 </div>
-
-### UX Designer Portfolio
-:page_facing_up: [Portfolio Website](http://www.jaeminkim.com) <br></br>
-
-### User Interface and User Experience Design Handbook
-:book: [Handbook](https://github.com/jaeminkim-com/user_interface_and_user_experience_design_handbook) <br></br>
 
 <!-- Repos -->
 <div align="center">
