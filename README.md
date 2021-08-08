@@ -1,4 +1,4 @@
-<h3>Hello! John (Jae Min) Kim, a local UI/UX Designer located in the San Francisco Bay Area and Silicon Valley.</h3>
+<h3>Hello! John (Jae Min) Kim, is a local UI/UX Designer located in the San Francisco Bay Area and Silicon Valley.</h3>
 
 <h3>Available for Full-Time, Part-Time, Contract and Freelance. Have a nice day!</h3>
 
