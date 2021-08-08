@@ -6,6 +6,8 @@
 <img height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeminkim-com&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 </div>
 
+</BR>
+
 ### UX Designer Portfolio
 :page_facing_up: [Portfolio Website](http://www.jaeminkim.com) <br></br>
 
