@@ -2,7 +2,7 @@
 
 <div>
 <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=jaeminkim-com&show_icons=true" />
-<img height="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeminkim-com&layout=compact" />
+<img height="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeminkim-com" />
 </div>
 
 </BR>
