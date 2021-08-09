@@ -4,6 +4,11 @@
 
 <h3>John (Jae Min) Kim, is a local UI/UX Designer from the San Francisco Bay Area and Silicon Valley. Currently living in San Jose, CA with four cats, three fish and fiance. Contact for anything User Interface and User Experience Design.</h3>
 
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jaeminkim-com&show_icons=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeminkim-com&layout=compact" />
+</div>
+
 <h3>Portfolio is available for viewing here:</h3>
 
 ### UX Designer Portfolio
@@ -13,11 +18,6 @@
 
 ### User Interface and User Experience Design Handbook
 :book: [Handbook](https://github.com/jaeminkim-com/user_interface_and_user_experience_design_handbook)
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jaeminkim-com&show_icons=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeminkim-com&layout=compact" />
-</div>
 
 <h3>Available for Full-Time, Part-Time, Contract and Freelance.</h3>
 
