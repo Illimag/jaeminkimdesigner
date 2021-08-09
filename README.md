@@ -2,7 +2,7 @@
 <img src="https://github.com/jaeminkim-com/jaeminkim-com/blob/master/img/sf.gif" width="600"/>
 </div>
 
-<h3>John (Jae Min) Kim, is a local UI/UX Designer from the San Francisco Bay Area and Silicon Valley.</h3>
+<h3>John (Jae Min) Kim, is a local UI/UX Designer from the San Francisco Bay Area and Silicon Valley. Currently living in San Jose, CA with four cats, three fish and fiance. Contact for anything User Interface and User Experience Design.</h3>
 
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=jaeminkim-com&show_icons=true" />
