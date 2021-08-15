@@ -6,7 +6,6 @@
   
 <h3>Skilled in Web App Design, User Interfaces (UI) Design, User Experience (UX) Design, Interaction Design, Product Design, Graphic Design, Adobe Illustrator, Figma, Adobe XD, HTML/CSS/JS, Bootstrap and React.JS. Professional in-house experience, remote workplace settings in teams, startups, businesses and corporate.</h3>
   
-<h3>Currently living in San Jose, CA with four cats, three fish and fiance.</h3>
 
 <h3> Design Thinking
 Typesetting
@@ -42,6 +41,9 @@ HTML5
 Web Site Design
 </h3>
 
+<h3>Currently living in San Jose, CA with four cats, three fish and fiance.</h3>
+
+
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=jaeminkim-com&show_icons=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeminkim-com&layout=compact" />
@@ -56,7 +58,7 @@ Web Site Design
 
 ### User Interface and User Experience Design Handbook
 :book: [Handbook](https://github.com/jaeminkim-com/user_interface_and_user_experience_design_handbook)
-
+Ws
 <h3>Available for Full-Time, Part-Time, Contract and Freelance.</h3>
 
 <!-- Web Applications (React.JS) Repos -->
