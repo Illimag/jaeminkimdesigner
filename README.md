@@ -8,6 +8,40 @@
   
 <h3>Currently living in San Jose, CA with four cats, three fish and fiance.</h3>
 
+<h3> Design Thinking
+Typesetting
+ Syntactically Awesome Style Sheets (SASS)
+Balsamiq
+Cross-browser
+Interface Design
+Data Visualisation
+Omnigraffle
+Sketching
+User Interface
+
+Adobe InDesign
+Adobe Illustrator
+Adobe Acrobat
+Adobe Creative Suite
+Process Design
+Web App Development
+Software Development
+Product Management
+Java
+Scrum
+
+JavaScript
+UX Wireframes
+Adobe Photoshop
+UI Design
+Prototyping
+User Research
+Visual Design
+Interaction Design
+HTML5
+Web Site Design
+</h3>
+
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=jaeminkim-com&show_icons=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeminkim-com&layout=compact" />
