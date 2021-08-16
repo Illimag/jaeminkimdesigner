@@ -4,43 +4,11 @@
 
 <h3>John (Jae Min) Kim, is a local UI/UX Designer from the San Francisco Bay Area and Silicon Valley.</h3>
   
-<h3>Skilled in Web App Design, User Interfaces (UI) Design, User Experience (UX) Design, Interaction Design, Product Design, Graphic Design, Adobe Illustrator, Figma, Adobe XD, HTML/CSS/JS, Bootstrap and React.JS. Professional in-house experience, remote workplace settings in teams, startups, businesses and corporate.</h3>
+<h3>Skilled in Web App Design, User Interfaces (UI) Design, User Experience (UX) Design, Interaction Design, Product Design, Graphic Design, Adobe Illustrator, Figma, Adobe XD, HTML/CSS/JS, Bootstrap and React.JS. </h3>
   
-
-<h3> Design Thinking
-Typesetting
- Syntactically Awesome Style Sheets (SASS)
-Balsamiq
-Cross-browser
-Interface Design
-Data Visualisation
-Omnigraffle
-Sketching
-User Interface
-
-Adobe InDesign
-Adobe Illustrator
-Adobe Acrobat
-Adobe Creative Suite
-Process Design
-Web App Development
-Software Development
-Product Management
-Java
-Scrum
-
-JavaScript
-UX Wireframes
-Adobe Photoshop
-UI Design
-Prototyping
-User Research
-Visual Design
-Interaction Design
-HTML5
-Web Site Design
-</h3>
-
+  
+<h3>Professional in-house experience, remote workplace settings in teams, startups, businesses and corporate.</h3>
+  
 <h3>Currently living in San Jose, CA with four cats, three fish and fiance.</h3>
 
 
