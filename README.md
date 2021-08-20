@@ -26,7 +26,7 @@
 
 ### User Interface and User Experience Design Handbook
 :book: [Handbook](https://github.com/jaeminkim-com/user_interface_and_user_experience_design_handbook)
-Ws
+
 <h3>Available for Full-Time, Part-Time, Contract and Freelance.</h3>
 
 <!-- Web Applications (React.JS) Repos -->
