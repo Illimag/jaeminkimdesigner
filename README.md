@@ -1,34 +1,16 @@
 <div align="center" width="50">
-<img src="https://github.com/jaeminkim-com/jaeminkim-com/blob/master/img/sf.gif" width="600"/>
+<img src="https://github.com/hillodesign/hillodesign/blob/master/img/sf.gif" width="600"/>
 </div>
 
-<h3>John (Jae Min) Kim, is a local UI/UX Designer from the San Francisco Bay Area and Silicon Valley.</h3>
+<h3>UI/UX Designer from the San Francisco Bay Area and Silicon Valley.</h3>
   
-<h3>Enjoys crafting Prototypes and Web Apps using standard Web Languages such as HTML/CSS and JavaScript/TypeScript. </h3>  
-  
-<h3>Skilled in Web App Design, User Interfaces (UI) Design, User Experience (UX) Design, Interaction Design, Product Design, Graphic Design, Adobe Illustrator, Figma, Adobe XD, HTML/CSS/JS, Bootstrap and React.JS. </h3>
-  
-<h3>Professional in-house experience, remote workplace settings in teams, startups, businesses and corporate.</h3>
-  
-<h3>Currently living in San Jose, CA with four cats, three fish and fiance.</h3>
-
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jaeminkim-com&show_icons=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeminkim-com&layout=compact" />
-</div>
-
-<h3>Portfolio is available for viewing here:</h3>
-
 ### UX Designer Portfolio
-:page_facing_up: [Portfolio Website](http://www.jaeminkim.com)
+:page_facing_up: [Portfolio Website](http://www.hillodesign.com)
 
 <h3>Take a look at handbook that is currently in development:</h3>
 
 ### User Interface and User Experience Design Handbook
-:book: [Handbook](https://github.com/jaeminkim-com/user_interface_and_user_experience_design_handbook)
-
-<h3>Available for Full-Time, Part-Time, Contract and Freelance.</h3>
+:book: [Handbook](https://github.com/hillodesign/user_interface_and_user_experience_design_handbook)
 
 <!-- Web Applications (React.JS) Repos -->
 <h3>Web Applications (React.JS)</h3>
