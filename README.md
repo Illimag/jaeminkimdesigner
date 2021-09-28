@@ -7,8 +7,6 @@
 ### UX Designer Portfolio
 :page_facing_up: [Portfolio Website](http://www.hillodesign.com)
 
-<h3>Take a look at handbook that is currently in development:</h3>
-
 ### User Interface and User Experience Design Handbook
 :book: [Handbook](https://github.com/hillodesign/user_interface_and_user_experience_design_handbook)
 
