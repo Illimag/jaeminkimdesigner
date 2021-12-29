@@ -7,5 +7,5 @@
 ### UX Designer Portfolio
 :page_facing_up: [Portfolio Website](http://www.hillodesign.com)
 
-### User Interface and User Experience Design Handbook
+### User Interface (UI) & User Experience (UX) Design Handbook (Remote Edition 2022)
 :book: [Handbook](https://github.com/hillodesign/user_interface_and_user_experience_design_handbook)
