@@ -11,4 +11,4 @@
 :book: [Handbook](https://www.amazon.com/dp/B09PS93M6G/ref=cm_sw_em_r_mt_dp_T5N4BQ7R6RWMKZW6WTFJ)
 
 ### User Interface Bible
-:book: [Handbook](https://github.com/hillodesign/User_Interface_Bible)
+:book: [Bible](https://github.com/hillodesign/User_Interface_Bible)
