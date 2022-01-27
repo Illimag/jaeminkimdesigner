@@ -8,7 +8,4 @@
 :page_facing_up: [Portfolio Website](http://www.hillodesign.com)
 
 ### User Interface (UI) & User Experience (UX) Design Handbook (Remote Edition 2022)
-:book: [Handbook](https://github.com/hillodesign/user_interface_and_user_experience_design_handbook)
-
-### BUY KINDLE VERSION HERE
 :book: [Handbook](https://www.amazon.com/dp/B09PS93M6G/ref=cm_sw_em_r_mt_dp_T5N4BQ7R6RWMKZW6WTFJ)
