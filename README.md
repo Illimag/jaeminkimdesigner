@@ -9,6 +9,3 @@
 
 ### User Interface (UI) & User Experience (UX) Design Handbook (Remote Edition 2022)
 :book: [Handbook](https://www.amazon.com/dp/B09PS93M6G/ref=cm_sw_em_r_mt_dp_T5N4BQ7R6RWMKZW6WTFJ)
-
-### UI/UX Bible
-:book: [Bible](https://github.com/hillodesign/UI-UX-Bible)
