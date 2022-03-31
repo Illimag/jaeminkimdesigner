@@ -2,7 +2,7 @@
 <img src="https://github.com/hillodesign/hillodesign/blob/master/img/sf.gif" width="600"/>
 </div>
 
-<h3>UI/UX Design San Francisco Bay Area and Silicon Valley.</h3>
+<h3>UI/UX San Francisco Bay Area and Silicon Valley.</h3>
   
 # UX Designer Portfolio
 :page_facing_up: [Portfolio Website](http://www.hillodesign.com)
