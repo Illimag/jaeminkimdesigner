@@ -12,9 +12,7 @@
 
 # Web Apps
 
-## Portfolio Website (React, Bootstrap, Portfolio, Router, React.JS)
-### Portfolio Website built with React.JS, Bootstrap 4 and hosted with Github
-:book: [Handbook](https://github.com/hillodesign/react-portfolio-site)
+:book: [Portfolio Website (React, Bootstrap, Portfolio, Router, React.JS)Portfolio Website built with React.JS, Bootstrap 4 and hosted with Github](https://github.com/hillodesign/react-portfolio-site)
 
 ## Shoepalace (HTML/CSS/JS/Bootstrap/React.JS)
 ### Product Rating System Web Application built with React.JS, JavaScript ES6/ES7, Bootstrap 4, HTML5
