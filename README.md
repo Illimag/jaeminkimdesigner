@@ -20,7 +20,7 @@
 
 :book: [DasDasDigital: Digital Agency Web App built with React.JS and Bootstrap](https://github.com/hillodesign/dasdasdigital_web_app)
 
-:book: [Dominos App Visually Impaired: Visually Impaired Personas Spectrum Conceptual Web App Prototype built in Angular 8, Voice Assistant CSS module Implementation](https://github.com/hillodesign/dasdasdigital_web_app)
+:book: [Dominos App Visually Impaired: Visually Impaired Personas Spectrum Conceptual Web App Prototype built in Angular 8, Voice Assistant CSS module Implementation](https://github.com/hillodesign/dominos-app-visually-impaired)
 
 :book: [React Web Application Prototyping with Bootstrap Studio: UI prototyping with ReactJS, React-Bootstrap and Boostrap Studio](https://github.com/hillodesign/react-web-application-prototyping-with-bootstrap-studio)
 
