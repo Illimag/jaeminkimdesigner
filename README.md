@@ -5,10 +5,10 @@
 <h3>UI/UX San Francisco Bay Area and Silicon Valley.</h3>
 
 # SKILLS
-## • User Experience • User Interface • Interaction Design • Web Design • Mobile Responsive • Cross-Platform • SPA • Progressive Web App • Design Thinking • Wireframing • Mockups • Prototyping • User Testing • Web Development • Full Stack Web Development
+### • User Experience • User Interface • Interaction Design • Web Design • Mobile Responsive • Cross-Platform • SPA • Progressive Web App • Design Thinking • Wireframing • Mockups • Prototyping • User Testing • Web Development • Full Stack Web Development
 
 # TOOLS & LANGUAGES
-## • Adobe Creative Suite • Adobe XD • Figma • Adobe Illustrator • Adobe Photoshop • Proto.io • Usability Hub • Balsamiq • HTML/XML • CSS/Sass • JavaScript/jQuery • React.JS • WordPress • Angular.JS • Bootstrap • Material Design • NPM • WSL2 • GIT • Ubuntu 20.04 • Windows 11 • AWS • Visual Studio Code
+### • Adobe Creative Suite • Adobe XD • Figma • Adobe Illustrator • Adobe Photoshop • Proto.io • Usability Hub • Balsamiq • HTML/XML • CSS/Sass • JavaScript/jQuery • React.JS • WordPress • Angular.JS • Bootstrap • Material Design • NPM • WSL2 • GIT • Ubuntu 20.04 • Windows 11 • AWS • Visual Studio Code
 
 # UX Designer Portfolio
 :page_facing_up: [Portfolio Website](http://www.hillodesign.com)
