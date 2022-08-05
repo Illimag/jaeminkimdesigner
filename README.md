@@ -10,12 +10,6 @@
 # TOOLS & LANGUAGES
 ### • Adobe Creative Suite • Adobe XD • Figma • Adobe Illustrator • Adobe Photoshop • Proto.io • Usability Hub • Balsamiq • HTML/XML • CSS/Sass • JavaScript/jQuery • React.JS • WordPress • Angular.JS • Bootstrap • Material Design • NPM • WSL2 • GIT • Ubuntu 20.04 • Windows 11 • AWS • Visual Studio Code
 
-# UX Designer Portfolio
-:page_facing_up: [Portfolio Website](http://www.hillodesign.com)
-
-# User Interface (UI) & User Experience (UX) Design Handbook (Remote Edition 2022)
-:book: [Handbook](https://www.amazon.com/dp/B09PS93M6G/ref=cm_sw_em_r_mt_dp_T5N4BQ7R6RWMKZW6WTFJ)
-
 # Web Apps
 
 :book: [Portfolio Website: built with React.JS, Bootstrap 4 and hosted with Github](https://github.com/hillodesign/react-portfolio-site)
