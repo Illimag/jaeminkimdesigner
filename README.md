@@ -4,6 +4,10 @@
 
 <h3>UI/UX San Francisco Bay Area and Silicon Valley.</h3>
 
+# Midjourney
+
+# FIGMA
+
 # SKILLS
 ### • User Experience • User Interface • Interaction Design • Web Design • Mobile Responsive • Cross-Platform • SPA • Progressive Web App • Design Thinking • Wireframing • Mockups • Prototyping • User Testing • Web Development • Full Stack Web Development
 
