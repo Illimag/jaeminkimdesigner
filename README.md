@@ -6,9 +6,11 @@
 
 # Midjourney
 
-:book: [Midjourney Prompts](https://github.com/hillosoft/Midjourney)
+:book: [Midjourney](https://github.com/hillosoft/Midjourney)
 
 # FIGMA
+
+:book: [Figma](https://github.com/hillosoft/figma)
 
 # SKILLS
 ### • User Experience • User Interface • Interaction Design • Web Design • Mobile Responsive • Cross-Platform • SPA • Progressive Web App • Design Thinking • Wireframing • Mockups • Prototyping • User Testing • Web Development • Full Stack Web Development
