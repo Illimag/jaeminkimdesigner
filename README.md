@@ -6,6 +6,8 @@
 
 # Midjourney
 
+:book: [Midjourney Prompts](https://github.com/hillosoft/Midjourney)
+
 # FIGMA
 
 # SKILLS
