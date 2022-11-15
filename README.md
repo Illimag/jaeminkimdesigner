@@ -6,6 +6,8 @@
 
 # Generative Computer Aided Design
 
+:book: [GCAD](https://github.com/hillosoft/GenerativeComputerAidedDesign)
+
 # Midjourney
 
 :book: [Midjourney](https://github.com/hillosoft/Midjourney)
