@@ -4,16 +4,6 @@
 
 <h3>UI/UX San Francisco Bay Area and Silicon Valley.</h3>
 
-# Generative Computer Aided Design
-
-:book: [GCAD](https://github.com/hillosoft/GenerativeComputerAidedDesign)
-
-# Midjourney
-
-:book: [Midjourney](https://github.com/hillosoft/Midjourney)
-
-:book: [Midjourney Community Prompts](https://github.com/hillosoft/MJ_community_prompts)
-
 # FIGMA
 
 :book: [Figma](https://github.com/hillosoft/figma)
@@ -56,3 +46,16 @@
 
 :book: [Doc List](https://github.com/hillodesign/doc-list)
 
+# Generative Computer Aided Design
+
+:book: [GCAD](https://github.com/hillosoft/GenerativeComputerAidedDesign)
+
+# Midjourney
+
+:book: [Midjourney](https://github.com/hillosoft/Midjourney)
+
+:book: [Midjourney Community Prompts](https://github.com/hillosoft/MJ_community_prompts)
+
+# Stable Diffusion
+
+:book: [Stable Diffusion](https://github.com/hillosoft/StableDiffusion)
