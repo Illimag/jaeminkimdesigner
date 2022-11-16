@@ -52,8 +52,6 @@
 
 # Midjourney
 
-:book: [Midjourney](https://github.com/hillosoft/Midjourney)
-
 :book: [Midjourney Community Prompts](https://github.com/hillosoft/MJ_community_prompts)
 
 # Stable Diffusion
