@@ -6,8 +6,6 @@
 
 # FIGMA
 
-:book: [Figma](https://github.com/hillosoft/figma)
-
 # SKILLS
 ### • User Experience • User Interface • Interaction Design • Web Design • Mobile Responsive • Cross-Platform • SPA • Progressive Web App • Design Thinking • Wireframing • Mockups • Prototyping • User Testing • Web Development • Full Stack Web Development
 
@@ -45,15 +43,3 @@
 # Doc List
 
 :book: [Doc List](https://github.com/hillodesign/doc-list)
-
-# Generative Computer Aided Design
-
-:book: [GCAD](https://github.com/hillosoft/GenerativeComputerAidedDesign)
-
-# Midjourney
-
-:book: [Midjourney Community Prompts](https://github.com/hillosoft/MJ_community_prompts)
-
-# Stable Diffusion
-
-:book: [Stable Diffusion](https://github.com/hillosoft/StableDiffusion)
