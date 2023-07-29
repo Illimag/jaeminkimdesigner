@@ -4,7 +4,7 @@
 
 <h3>UI/UX San Francisco Bay Area and Silicon Valley.</h3>
 
-# UI/UX FIGMA
+# UI/UX FIGMA/Adobe
 
 # AI Stable Diffusion, Weights, Midjourney
 
