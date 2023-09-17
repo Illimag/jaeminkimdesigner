@@ -5,7 +5,7 @@
 <h3>UI/UX San Francisco Bay Area and Silicon Valley.</h3>
 
 # UI/UX FIGMA/Adobe
-
+# React.JS, Angular, TypeScript
 # AI Stable Diffusion, Weights, Midjourney
 
 https://github.com/jaeminkimdesigner/stable-diffusion
